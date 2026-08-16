@@ -1,3 +1,16 @@
+<div align="center">
+
+# ⚡ Nexus Prime - Enterprise Automation Platform
+### *Visual Workflow Builder & Enterprise Node Automation*
+
+[![GitHub stars](https://img.shields.io/github/stars/EdgeAgent/nexus-prime?style=for-the-badge&logo=github&color=blue)](https://github.com/EdgeAgent/nexus-prime/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Status: Production Ready](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)]()
+
+</div>
+
+---
+
 # Nexus Prime - Enterprise Automation Platform
 
 ![Nexus Prime Logo](https://img.shields.io/badge/Nexus-Prime-blue?style=for-the-badge&logo=lightning)
